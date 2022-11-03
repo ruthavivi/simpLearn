@@ -23,6 +23,7 @@ public class LoginActivity extends AppCompatActivity {
 
     FirebaseAuth auth;
 
+
     ProgressDialog dialog;
 
     @Override
