@@ -38,7 +38,7 @@
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/denk_one"
                 android:gravity="center"
-                android:text="Guftgo"
+                android:text="simpLearn"
                 android:textColor="@android:color/black"
                 android:textSize="30sp" />
 
